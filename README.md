@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Faisal Saleh**.
+
+Saya seorang **Frontend Web Developer**
+
+Jika kamu tertarik untuk silakan ikuti akun [Linkedin](https://www.linkedin.com/in/faisal-saleh-9a9368186/) saya ya.
+
+
